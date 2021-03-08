@@ -1,4 +1,4 @@
-#About Project
+## About Project
 This is an React based spotify music search web app. Where user can search for the song or artist.\
 Just Type in the search bar the name of the artist or song to load data.
 
